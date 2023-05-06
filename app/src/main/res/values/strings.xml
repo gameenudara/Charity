@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Charity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text1">Top catagories</string>
+    <string name="text2">Education</string>
+    <string name="text3">Health care</string>
+    <string name="text4">Drought</string>
+    <string name="text5">Nutrition</string>
+    <string name="text6">Unemployment</string>
+    <string name="text7">Water</string>
+    <string name="text8">Education</string>
+    <string name="text9">Help to build classroom in jaffna tamil school</string>
+    <string name="btn1">Donate now</string>
+    <string name="text10">Help to get stationaries to rathnapura girls school</string>
+    <string name="btn2">Donate now</string>
+</resources>

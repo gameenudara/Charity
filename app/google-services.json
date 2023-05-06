@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306726801777",
+    "project_id": "charity-51d04",
+    "storage_bucket": "charity-51d04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306726801777:android:dea8553ad64a13c55c66d0",
+        "android_client_info": {
+          "package_name": "com.example.charity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306726801777-790q28e2mpi5gpum42s73fg1o9ts6c6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL_GfC8ML5Jox6sv_MVeB5iFLDGuYufDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306726801777-790q28e2mpi5gpum42s73fg1o9ts6c6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
